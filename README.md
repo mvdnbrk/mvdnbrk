@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Mark's github stats](https://github-readme-stats.vercel.app/api?username=mvdnbrk&show_icons=true)
+![Mark's github stats](https://github-readme-stats.vercel.app/api?username=mvdnbrk&show_icons=true&hide_title=true)
