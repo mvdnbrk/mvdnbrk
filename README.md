@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-![Mark's github stats](https://github-readme-stats.vercel.app/api?username=mvdnbrk&show_icons=true&hide_title=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=mvdnbrk&show_icons=true&hide_title=false)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnbrk&langs_count=6&layout=compact)
